@@ -12,5 +12,5 @@ I separate the code in different files for better readibility and a clean code, 
 ex:
 ##### res = client.get_positions(symbol="BTCUSDT")
 
-Even though the method get_positions() is in another file. You can still use it in this way because of the imports of the fucntion to the main file (__init__.py).
+Even though the method get_positions() is in another file. You can still use it in this way because of the imports of the fucntion to the main file (\_\_init__.py).
 
