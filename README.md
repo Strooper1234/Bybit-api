@@ -1,6 +1,8 @@
 # Bybit-api
-I didn't like the original api for python so I decided to create my own, more intuitive and that makes sense.
+I didn't like the original Bybit python api connection package (many reasons, but there are major bugs) so I decided to create my own, more intuitive and that makes sense.
 Currently working only for BTCUSDT endpoints.
+
+**Update:** This project its not finished because recently ByBit release the Documentation and the Python library doesn't have major bugs anymore. Although I much prefer the architecture of my version, there is not reason for me to continue development for these api connection.
 
 # How to use it
 
